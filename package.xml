@@ -6,7 +6,7 @@
   <version>0.3.1</version>
   <description>SwarmIO communications bridge for ROS</description>
   <maintainer email="akos.milankovich@search-lab.hu">Ákos Milánkovich</maintainer>
-  <license>All rights reserved.</license>
+  <license>Apache 2.0</license>
   <url type="website">http://www.cpswarm.eu</url>
 
   <!-- Dependencies -->
