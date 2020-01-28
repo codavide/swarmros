@@ -1,0 +1,11 @@
+syntax = "proto3";
+package swarmio.data.discovery;
+
+import "swarmio/data/discovery/Schema.proto";
+
+message Response {
+    bool echo_enabled = 1;
+    Schema event_schema = 2;
+    Schema keyvalue_schema = 3;
+    Schema telemetry_schema = 4;
+}
